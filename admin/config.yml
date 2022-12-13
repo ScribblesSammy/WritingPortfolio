@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: scribblessammy/writingportfolio # Path to your GitHub repository
+  repo: ScribblesSammy/WritingPortfolio # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: scribblesbysammy.netlify.app #Your site on netlify
   use_graphql: true
