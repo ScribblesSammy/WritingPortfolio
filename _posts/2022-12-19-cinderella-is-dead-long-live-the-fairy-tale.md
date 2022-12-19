@@ -2,7 +2,7 @@
 layout: post
 title: "Cinderella Is Dead: Long Live The Fairy Tale"
 date: 2022-12-12T10:30:41.691Z
-image: https://brookesbroadcasts.files.wordpress.com/2022/02/bloomsburycinderellaisdeadcover-1.jpg
+image: ../uploads/bloomsburycinderellaisdeadcover-2.jpg
 title_color: "#ffffff"
 comments: false
 ---
