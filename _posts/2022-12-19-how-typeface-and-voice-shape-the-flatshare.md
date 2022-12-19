@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Typeface and Voice Shape 'The Flatshare'
-date: 2022-12-19T10:30:00.000Z
+date: 2022-12-05T10:30:00.000Z
 image: ../uploads/article1-headerimage.jpeg
 title_color: "#ffffff"
 comments: false
