@@ -2,7 +2,7 @@
 layout: post
 title: "Cinderella Is Dead: Long Live The Fairy Tale"
 date: 2022-12-12T10:30:41.691Z
-image: ../uploads/bloomsburycinderellaisdeadcover-2.jpg
+image: ../uploads/fernanda-suarez-cinderella-is-dex-07-sig-cropped.jpg
 title_color: "#ffffff"
 comments: false
 ---
