@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Refuse To Feel Guilt About My TBR Pile
+title: Why I Refuse To Feel Guilt About My TBR
 date: 2022-12-19T10:30:17.203Z
 image: ../uploads/headerimage-sharper-.jpg
 title_color: "#ffffff"
