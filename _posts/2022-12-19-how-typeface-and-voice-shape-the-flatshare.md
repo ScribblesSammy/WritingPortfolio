@@ -1,11 +1,14 @@
 ---
 layout: post
 title: How Typeface and Voice Shape 'The Flatshare'
-date: 2022-12-19T10:37:31.446Z
+date: 2022-12-19T10:30:00.000Z
+image: ../uploads/article1-headerimage.jpeg
 title_color: "#ffffff"
 comments: false
 ---
 Beth O'Leary's *The Flatshare*, the bestselling romantic comedy recently adapted into a television series, is a book of two faces; the exuberant and optimistic Tiffy contrasting against the pragmatic and candid Leon. This contrast in narrative voice and writing style gives two distinct protagonists with easily distinguishable personalities. This disparity apparent within the text is begun on the cover of the book as a lead in to the dual narrative.
+
+![](../uploads/article1-flatsharecover.jpg "Original Quercus hardback dust jacket")
 
 The cover of the first-edition hardback (as seen above) features four different typefaces- the gold writing, the tagline and reviews, and the two in the title. Each one has a different purpose and voice to it, yet the most important are undoubtedly those in the title of the novel.
 
