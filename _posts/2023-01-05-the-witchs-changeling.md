@@ -109,4 +109,6 @@ Sekai’s lips twisted into a mockery of a grin.
 
 .
 
-freestocks (2017) person decorating pumpkins. Available at: https://unsplash.com/photos/twVS-YjQn9Y (Accessed: 27 October 2021)
+**I﻿mage credit**:
+
+freestocks (2017) *person decorating pumpkins*. Available at: https://unsplash.com/photos/twVS-YjQn9Y (Accessed: 27 October 2021)
